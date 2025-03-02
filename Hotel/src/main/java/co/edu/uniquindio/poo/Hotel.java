@@ -5,8 +5,6 @@ import java.util.List;
 
 public class Hotel {
 
-    public class Hotel {
-
         private String nombre;
         private List<Habitacion> habitaciones;
         private List<Cliente> clientes;
