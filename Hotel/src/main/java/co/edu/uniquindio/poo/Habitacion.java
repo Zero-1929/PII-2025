@@ -1,9 +1,9 @@
 package co.edu.uniquindio.poo;
 
-public class Habitacion {
-    String numero;
-    TipoHabitacion tipoHabitacion;
-    double precio;
+class Habitacion {
+    private String numero;
+    private TipoHabitacion tipoHabitacion;
+    private double precio;
 
     public Habitacion(String numero, TipoHabitacion tipoHabitacion, double precio) {
         this.numero = numero;

@@ -1,6 +1,6 @@
 package co.edu.uniquindio.poo;
 
-public enum TipoHabitacion {
+enum TipoHabitacion {
     SIMPLE,
     DOBLE,
     SUITE
